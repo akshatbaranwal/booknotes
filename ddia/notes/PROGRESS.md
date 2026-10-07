@@ -4,7 +4,7 @@
 > *where I am* and *what's open* — read it at the start of any `/doubt` or `/note`,
 > since the session is long and earlier context may be summarized away.
 
-**Current position:** _not started_ — last updated 2026-06-30
+**Current position:** Ch 1 — Trade-Offs in Data Systems Architecture — last updated 2026-07-02
 
 ---
 

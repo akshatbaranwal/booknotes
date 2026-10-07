@@ -5,7 +5,7 @@
 
 | Topic | Ch | Section | Tags | Status |
 |---|---|---|---|---|
-| _(none yet)_ |  |  |  |  |
+| What "data-intensive" means | 1 | [link](ch01-trade-offs.md#data-intensive) | #fundamentals | Clarified |
 
 ---
 
@@ -13,4 +13,4 @@
 _Reused tags, so they stay consistent across chapters._
 
 `#replication` `#consistency` `#partitioning` `#transactions` `#consensus`
-`#storage` `#encoding` `#data-models` `#fault-tolerance` `#performance`
+`#storage` `#encoding` `#data-models` `#fault-tolerance` `#performance` `#fundamentals`
